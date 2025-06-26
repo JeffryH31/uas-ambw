@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "435580013224",
+    "project_id": "uas-ambw-c0051",
+    "storage_bucket": "uas-ambw-c0051.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435580013224:android:7c9520828309b47bf2909d",
+        "android_client_info": {
+          "package_name": "com.example.ambw_uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5bHRA-ZQaGsQVfVZL5N18pzn3BM9INe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435580013224:android:cf1abc0bc4de66fdf2909d",
+        "android_client_info": {
+          "package_name": "com.example.uas_ambw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5bHRA-ZQaGsQVfVZL5N18pzn3BM9INe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
